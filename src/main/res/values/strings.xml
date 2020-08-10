@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Caps</string>
+    <string name="score_0">SCORE=0</string>
+    <string name="q_1">Q#1</string>
+    <string name="question">question</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="done">done</string>
+    <string name="score">score</string>
+    <string name="qnum">qNum</string>
+    <string name="answer">answer</string>
+</resources>
